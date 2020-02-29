@@ -3,9 +3,10 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-string cos;
-    }
 
-    private static class string {
+//teraz cos tu jest
+
+
+
     }
 }
